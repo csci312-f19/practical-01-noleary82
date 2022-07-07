@@ -11,7 +11,7 @@
   "author": "Nick O'Leary <noleary82@gmail.com>",
   "license": "Apache-2.0",
   "dependencies": {
-    "moment": "^2.24.0"
+    "moment": "^2.29.4"
   },
   "devDependencies": {
     "eslint": "^6.1.0",
